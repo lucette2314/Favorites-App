@@ -1,0 +1,7 @@
+{
+  "name": "FavoritesApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
